@@ -4,10 +4,6 @@ Programming assignments and quizzes from all courses in the Coursera [Deep Learn
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-## Notes
-
-### For detailed interview-ready notes on all courses in the Coursera Deep Learning specialization, refer [www.aman.ai](https://aman.ai/).
-
 ## Setup
 
 Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract the zip'd pre-trained models and datasets that are needed for all the assignments.
